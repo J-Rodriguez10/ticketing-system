@@ -1,6 +1,5 @@
 from models.users import UserStore
 
-
 class AuthSelector:
     """Standalone login/switch-user UI for the terminal."""
 
